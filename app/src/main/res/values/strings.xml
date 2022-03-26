@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AD 340</string>
+    <string name="invalidZipcodeLen">Invalid zipcode length</string>
 </resources>
